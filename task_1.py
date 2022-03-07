@@ -1,5 +1,4 @@
 from cmath import pi
-import math
 
 num = float(input( "Input the radius of the circle: "))
 area = pi *num*num
