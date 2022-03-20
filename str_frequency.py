@@ -29,5 +29,5 @@ value = [y for x, y in repeat.items()]
 for (a,b) in zip(key,value):
     print(str(a)+"=0"+str(b))
 
-# NOTE: Im not aware how to sort the dictionary(descending order) .
+# NOTE: Im not aware of how to sort the dictionary based on values(descending order) .
 
