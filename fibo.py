@@ -21,6 +21,6 @@ def fibonaci(n):
             b = c
             result += [c]
         #print(c)
-        print("The list of first {} fibonaci series is :".format(num),result)
+        print("The fibonaci series of first {} numbers is :".format(num),result)
 
 fibonaci(num)
